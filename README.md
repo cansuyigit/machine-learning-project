@@ -1,5 +1,5 @@
 # machine-learning-project
-Bağıl CPU performansı - makine öğrenmesi projesi 
+Bağıl CPU performansı - makine öğrenmesi projesi \n
 Veri seti ilgili dosyada bulunmaktadır. Bu proje anaconda-Jupyter notebook editörü kullanılmıştır.
 Kodla ilgili açıklamalar kodun olduğu dosyada yer almaktadır.
 Projenin konusu: Bu veri setinde çevrim süresi, bellek boyutu gibi özellikler kullanılarak Bağıl CPU Performans 
